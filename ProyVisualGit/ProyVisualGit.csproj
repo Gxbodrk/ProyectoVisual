@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Gitcambio2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gitcambio2.Designer.cs">
+      <DependentUpon>Gitcambio2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Gitdemierda.cs">
       <SubType>Form</SubType>
     </Compile>
